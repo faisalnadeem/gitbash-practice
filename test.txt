@@ -1,1 +1,6 @@
 first commit
+
+in order to quit the commit editor screen
+saving changes [:x!]
+without saving [:q!]
+source: https://stackoverflow.com/questions/13239368/git-how-to-close-commit-editor
