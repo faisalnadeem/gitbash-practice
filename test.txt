@@ -1,6 +1,13 @@
 first commit
 
+committing changes:
+[git add .] to stage changes
+[git commit] to commit locally which opens commit editor screen
+
+press i and enter to put in insertion mode and add your message
+press escape to quit insertion mode
 in order to quit the commit editor screen
 saving changes [:x!]
 without saving [:q!]
+
 source: https://stackoverflow.com/questions/13239368/git-how-to-close-commit-editor
